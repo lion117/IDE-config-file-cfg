@@ -15,4 +15,3 @@ copy the  "png" folder into C disk directly , the software would know how to use
 
 # Test
 
-> the second time to change file 16.21. for test 
